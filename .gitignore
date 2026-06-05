@@ -1,0 +1,7 @@
+*.mp4
+*.mov
+*.csv
+*.pt
+*.zip
+__pycache__/
+.DS_Store
